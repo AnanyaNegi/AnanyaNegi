@@ -1,6 +1,6 @@
 # < HI THERE >! 👋
 
-![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/7678397bdf064434-programming-gif-find-share-on-giphy.gif)
+![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/me.gif)
 
 **I am a full-stack MEAN developer. I love developing and designing websites. Being a self driven deep learning enthusiast, I have worked around with image processing using Opencv. Highly motivated and optimistic, I take on every opportunity which comes my way.**
 
