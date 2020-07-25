@@ -11,6 +11,10 @@
 * **ROS**
 * **OpenCV**
 
+## 📈STATS-
+[![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananyanegi)](https://github.com/ananyanegi/github-readme-stats)
+
+
 ## 🎨 HOBBIES-
 **I love painting. I also like singing,reading and adoring cats of my neighbor.**
 
