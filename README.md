@@ -19,5 +19,5 @@
  You can also find me at ananya4negi@gmail.com**
 
 # SEE YA!
-<img src="https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/original.gif" width="400" height="400" />
+<img src="https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/original.gif" width="300" height="200" />
 
