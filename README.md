@@ -17,5 +17,7 @@
 ## 📱 GET IN TOUCH-
 **For any queries or collaboration leave me a message at https://www.linkedin.com/in/ananya-negi-42922018a/
 or get in touch via email ananya4negi@gmail.com**
+
+![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/a910d345227f1f01c668a691958c23a7_w200.gif)
 # < SEE YA /> !
 ***Meanwhile you check out my Repositories***👇😄
