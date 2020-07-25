@@ -19,5 +19,5 @@ I love painting. I also like singing,reading and adoring cats of my neighbor.
  You can also find me at ananya4negi@gmail.com
 
 ## SEE YA!
-![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/7678397bdf064434-programming-gif-find-share-on-giphy.gif)
+![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/original.gif)
 
