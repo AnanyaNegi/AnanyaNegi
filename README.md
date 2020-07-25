@@ -16,7 +16,7 @@
 
 ## 📱 GET IN TOUCH-
 **For any queries or collaboration leave me a message at https://www.linkedin.com/in/ananya-negi-42922018a/
-or get in touch via email ananya4negi@gmail.com
+or get in touch via email ananya4negi@gmail.com**
 # < SEE YA /> !
 <img src="https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/original.gif" width="300" height="200" />
 
