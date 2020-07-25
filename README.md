@@ -1,4 +1,4 @@
-# HI THERE! 👋
+# < HI THERE >! 👋
 
 ![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/7678397bdf064434-programming-gif-find-share-on-giphy.gif)
 
@@ -15,9 +15,9 @@
 **I love painting. I also like singing,reading and adoring cats of my neighbor.**
 
 ## 📱 GET IN TOUCH-
-**If you love painting as much as I do dm me at https://www.instagram.com/sakura_and_a_queen/ 
+**For any collaboration or competition dm me at linkedin.com/in/ananya-negi-42922018a 
  You can also find me at ananya4negi@gmail.com**
 
-# SEE YA!
+# HAPPY CODING <SEE YA/> !
 <img src="https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/original.gif" width="300" height="200" />
 
