@@ -1,17 +1,23 @@
-### Hi there 👋
+# HI THERE! 👋
 
-<!--
-**AnanyaNegi/AnanyaNegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/7678397bdf064434-programming-gif-find-share-on-giphy.gif)
 
-Here are some ideas to get you started:
+## I am a full-stack MEAN developer.I love developing and designing websites. Being a self driven deep learning enthusiast, I have worked around with image processing using Opencv. Highly motivated and optimistic, I take on every opportunity which comes my way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/no-idea-what-im-doing.gif)
+# 🎯 TECH I KNOW-
+* MEAN/MERN Stack
+* C++
+* Python
+* ROS
+* OpenCV
+
+# 🎨 HOBBIES-
+## I love painting. I also like singing,reading and adoring cats of my neighbor.
+
+# 📱 GET IN TOUCH-
+## If you love painting as much as I do dm me at https://www.instagram.com/sakura_and_a_queen/ 
+## You can also find me at ananya4negi@gmail.com
+
+## SEE YA!
+
+
