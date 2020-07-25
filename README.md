@@ -12,7 +12,7 @@
 * **OpenCV**
 
 ## 📈STATS-
-![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananyanegi&show_icons=true&theme=merko)
+![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananyanegi&show_icons=true&theme=radical)
 
 ## 🎨 HOBBIES-
 **I love painting. I also like singing,reading and adoring cats of my neighbor.**
