@@ -18,8 +18,8 @@
 **I love painting. I also like singing,reading and adoring cats of my neighbor.**
 
 ## 📱 GET IN TOUCH-
-**For any queries or collaboration leave me a message at https://www.linkedin.com/in/ananya-negi-42922018a/
-Check out my website https://ananya-negi.herokuapp.com/**
+**For any queries or collaboration leave me a message at https://www.linkedin.com/in/ananya-negi-42922018a/.
+Check out my website at https://ananya-negi.herokuapp.com/**
 
 # < SEE YA /> !
 ![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/a910d345227f1f01c668a691958c23a7_w200.gif)
