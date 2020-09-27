@@ -6,6 +6,7 @@
 
 ## 🎯 TECH I KNOW-
 * **MEAN/MERN Stack**
+* **Flutter/Dart**
 * **C++**
 * **Python**
 * **ROS**
