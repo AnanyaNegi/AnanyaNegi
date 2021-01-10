@@ -8,6 +8,7 @@
 * **MEAN/MERN Stack**
 * **Flutter/Dart**
 * **C++**
+* **AWS Cloud**
 * **Python**
 * **ROS**
 * **OpenCV**
