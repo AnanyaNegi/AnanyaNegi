@@ -2,7 +2,7 @@
 
 ![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/me.gif)
 
-**I am a full-stack developer. I love developing Websites and Apps. Being a self driven deep learning enthusiast, I have worked around with image processing using Opencv. Highly motivated and optimistic, I take on every opportunity which comes my way.**
+**I am a full-stack developer and open source enthusiast.Im interested in cloud technologies and problem solving. Highly motivated and optimistic, I take on every opportunity which comes my way.**
 
 ## 🎯 TECH I KNOW-
 * **MEAN/MERN Stack**
