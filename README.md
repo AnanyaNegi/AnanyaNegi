@@ -18,10 +18,10 @@
 
 ## 🎨 HOBBIES-
 **I love painting. I also like singing,reading and adoring cats of my neighbor.**
+
 ## 📱 GET IN TOUCH-
 * <a href="https://www.linkedin.com/in/ananya-negi-42922018a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br>
-* <a href="https://ananya-negi.herokuapp.com/">[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](http://forthebadge.com)</a>
-
+* <a href="https://ananya-negi.herokuapp.com/"><img src="https://img.shields.io/badge/{FIRST}-{SECONDARY}-#FF6666?style=for-the-badge&logo=specs&logoColor=white" /></a>
 
 
 # < SEE YA /> !
