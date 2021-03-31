@@ -22,6 +22,7 @@
 ## 📱 GET IN TOUCH-
 * <a href="https://www.linkedin.com/in/ananya-negi-42922018a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br>
 * <a href="https://ananya-negi.herokuapp.com/"><img src="https://img.shields.io/badge/Website-madewithGatsby-00A98F?style=for-the-badge&logo=gatsby&logoColor=white" /></a>
+* <a href="https://discord.com/channels/@Sakura_san#0401"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 
 # < SEE YA /> !
