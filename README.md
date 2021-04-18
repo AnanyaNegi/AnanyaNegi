@@ -1,5 +1,10 @@
 
-<a href="" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a><a href="https://www.linkedin.com/in/ananya-negi-42922018a/" target="_blank" rel="nofollow"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="" target="_blank" rel="nofollow"><a href="https://www.gmail.com/AnanyaNegi" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="https://medium.com/@ananya4negi" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
+
+<a href="https://www.linkedin.com/in/ananya-negi-42922018a/" target="_blank" rel="nofollow"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+<a href="https://www.instagram.com/evidently_ananyaaa/" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+ 
 
 # < HI THERE >! 
 
