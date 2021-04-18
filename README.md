@@ -15,7 +15,7 @@
 
 ## 📈STATS-
 ![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananyanegi&show_icons=true&theme=radical)
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaNegi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎨 FUN FACTS ABOUT ME-
 **I love painting. Other than that I also like singing,reading and adoring cats of my neighbor.**
