@@ -16,8 +16,8 @@
 ## 📈STATS-
 ![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananyanegi&show_icons=true&theme=radical)
 
-## 🎨 HOBBIES-
-**I love painting. I also like singing,reading and adoring cats of my neighbor.**
+## 🎨 FUN FACTS ABOUT ME-
+**I love painting. Other than that I also like singing,reading and adoring cats of my neighbor.**
 
 ## 📱 GET IN TOUCH-
 * <a href="https://www.linkedin.com/in/ananya-negi-42922018a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
