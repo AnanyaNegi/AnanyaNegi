@@ -1,5 +1,5 @@
 
-<a href="" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/ananya-negi-42922018a/" target="_blank" rel="nofollow"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a><a href="https://www.linkedin.com/in/ananya-negi-42922018a/" target="_blank" rel="nofollow"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 
 # < HI THERE >! 
 
