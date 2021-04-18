@@ -5,9 +5,12 @@
 **I am a full-stack developer and open source enthusiast.Im interested in cloud technologies and problem solving. Highly motivated and optimistic, I take on every opportunity which comes my way.**
 
 ## 🎯 TECH I KNOW-
-* **MEAN/MERN Stack** <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-    <img src="svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
+* **MEAN/MERN Stack**  <a href="#">
+    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ <a href="#">
     <img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
 
 * **Flutter/Dart**
