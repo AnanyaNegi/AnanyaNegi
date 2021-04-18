@@ -32,5 +32,5 @@
 
 # < SEE YA /> !
 ![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/a910d345227f1f01c668a691958c23a7_w200.gif)
-
-*Meanwhile check out my Projects and don't forget to leave a star if you like it.*👇😄
+<br>
+**Meanwhile check out my Projects and don't forget to leave a star if you like it.** 👇😄
