@@ -5,7 +5,7 @@
 
 ![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/me.gif)
 
-**I am a full-stack developer and open source enthusiast.Im interested in cloud technologies and problem solving. Highly motivated and optimistic, I take on every opportunity which comes my way.**
+**A full-stack developer and open source enthusiast, I'm interested in cloud technologies and problem solving. Highly motivated and optimistic, I take on every opportunity which comes my way.**
 
 ## 🎯 TECH I KNOW-
 * **MEAN/MERN Stack**  
@@ -33,4 +33,4 @@
 # < SEE YA /> !
 ![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/a910d345227f1f01c668a691958c23a7_w200.gif)
 
-***Meanwhile you can check out my Repositories***👇😄
+***Meanwhile you can check out my Projects and don't forget to leave a star if you like it.***👇😄
