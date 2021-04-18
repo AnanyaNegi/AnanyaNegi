@@ -30,7 +30,7 @@
  <a href="https://discord.com/channels/@Sakura_san#0401"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 
-# < SEE YA /> !
+# < SEE YA! />
 ![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/a910d345227f1f01c668a691958c23a7_w200.gif)
 <br>
 **Meanwhile check out my Projects and don't forget to leave a star if you like it.** 👇😄
