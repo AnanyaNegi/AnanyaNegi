@@ -9,7 +9,6 @@
 
 ## 🎯 TECH I KNOW-
 * **MEAN/MERN Stack**  
-* **Flutter/Dart**
 * **C++**
 * **AWS Cloud**
 * **Python**
