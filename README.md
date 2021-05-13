@@ -16,9 +16,9 @@
 * **OpenCV**
 
 ## 📈STATS-
-![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananyanegi&show_icons=true&theme=radical)
+![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=AnanyaNegi&show_icons=true&theme=radical)
 [![Ananya's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnanyaNegi&theme=react-dark)](https://github.com/AnanyaNegi/github-readme-activity-graph)
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaNegi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaNegi&layout=compact&theme=midnight-purple)](https://github.com/AnanyaNegi)
 
 ## 🎨 FUN FACTS ABOUT ME-
 **I love painting. Other than that I also like singing,reading and adoring cats of my neighbor.**
