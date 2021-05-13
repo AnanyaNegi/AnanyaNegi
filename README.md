@@ -16,8 +16,8 @@
 * **OpenCV**
 
 ## 📈STATS-
-![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=AnanyaNegi&show_icons=true&theme=radical)
 [![Ananya's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnanyaNegi&theme=react-dark)](https://github.com/AnanyaNegi/github-readme-activity-graph)
+<img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=graywhite" alt="crazychickendev"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaNegi&layout=compact&theme=midnight-purple)](https://github.com/AnanyaNegi)
 
 ## 🎨 FUN FACTS ABOUT ME-
