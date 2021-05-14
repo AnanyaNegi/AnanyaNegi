@@ -8,7 +8,7 @@
 **A full-stack developer and open source enthusiast, I'm interested in cloud technologies and problem solving. Highly motivated and optimistic, I take on every opportunity which comes my way.**
 
 
-- ⚡ I'm currently a Mentor @GSSoC'21.
+- ⚡ Currently a Mentor @GSSoC'21.
 
 - 🔭 I’m working on a Personal project.  
   
