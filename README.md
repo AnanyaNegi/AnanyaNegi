@@ -7,7 +7,18 @@
 
 **A full-stack developer and open source enthusiast, I'm interested in cloud technologies and problem solving. Highly motivated and optimistic, I take on every opportunity which comes my way.**
 
+
+- ⚡ Mentor @GSSoC'21.
+
+- 🔭 I’m currently working on a Personal project.  
+  
+- 🌱 I’m currently learning AWS S3. 
+  
+- ❓ Ask me about anything related to MERN stack and related technologies.  
+  
+  
 ## 🎯 TECH I KNOW-
+
 * **MEAN/MERN Stack** <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> <img  style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="40" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" width="40" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40" height="40" /> <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /> <img style="margin:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> <img style="margin:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> <img style="margin:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" /> <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40" /> <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40" />    
 
 * **C++** <img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="40" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="40" height="40" />   
