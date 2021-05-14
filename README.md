@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=AnanyaNegi&color=3dd39f&style=flat-square)<a href="https://www.linkedin.com/in/ananya-negi-42922018a/" target="_blank" rel="nofollow"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+![Profile views](https://komarev.com/ghpvc/?username=AnanyaNegi&color=3dd39f&style=flat-square&label=HOLA+VISITOR+NO.)<a href="https://www.linkedin.com/in/ananya-negi-42922018a/" target="_blank" rel="nofollow"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/evidently_ananyaaa/" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://medium.com/@ananya4negi" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
 
 # < HI! THIS IS ANANYA. >
