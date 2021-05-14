@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=AnanyaNegi&color=35b78a&style=flat-square&label=HOLA+VISITOR+NO.)<a href="https://www.linkedin.com/in/ananya-negi-42922018a/" target="_blank" rel="nofollow"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/evidently_ananyaaa/" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://medium.com/@ananya4negi" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
 
-# < HI! THIS IS ANANYA. >
+# < HI ! This is ANANYA. ;) >
 
 ![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/me.gif)
 
@@ -30,7 +30,7 @@
 * **Flutter** <img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" width="40" height="40" /> <img  style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" width="40" height="40" /> <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" width="40" height="40" />  
  
 
-## 📈STATS-
+## 📈 STATS-
 [![Ananya's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnanyaNegi&theme=react-dark)](https://github.com/AnanyaNegi/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaNegi&layout=compact&theme=midnight-purple)](https://github.com/AnanyaNegi)
 
