@@ -8,11 +8,11 @@
 **A full-stack developer and open source enthusiast, I'm interested in cloud technologies and problem solving. Highly motivated and optimistic, I take on every opportunity which comes my way.**
 
 
-- ⚡ Mentor @GSSoC'21.
+- ⚡ I'm currently a Mentor @GSSoC'21.
 
-- 🔭 I’m currently working on a Personal project.  
+- 🔭 I’m working on a Personal project.  
   
-- 🌱 I’m currently learning AWS S3. 
+- 🌱 I'm deep diving into the applications and concept of AWS S3.(which is pretty awesome ngl)
   
 - ❓ Ask me about anything related to MERN stack and related technologies.  
   
