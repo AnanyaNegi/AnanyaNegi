@@ -8,13 +8,17 @@
 **A full-stack developer and open source enthusiast, I'm interested in cloud technologies and problem solving. Highly motivated and optimistic, I take on every opportunity which comes my way.**
 
 ## 🎯 TECH I KNOW-
-* **MEAN/MERN Stack** <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" width="40" height="40" /><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+* **MEAN/MERN Stack** <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" width="40" height="40" /><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40" height="40" /><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" /><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40" /><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40" />    
 
-* **C++**
-* **AWS Cloud**
-* **Python**
-* **ROS**
-* **OpenCV**
+* **C++** <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="40" height="40" /><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="40" height="40" />   
+
+* **AWS Cloud** <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />    
+
+* **Python/ML** <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40" height="40"  /><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40" height="40" /><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" width="40" height="40" />    
+
+* **Flutter** <img  src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" width="40" height="40" /><img  src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
+ 
+
 
 ## 📈STATS-
 [![Ananya's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnanyaNegi&theme=react-dark)](https://github.com/AnanyaNegi/github-readme-activity-graph)
