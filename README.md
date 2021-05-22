@@ -1,7 +1,7 @@
-![Profile views](https://komarev.com/ghpvc/?username=AnanyaNegi&color=35b78a&style=flat-square&label=HI!+DEVELOPER+NO.)<a href="https://www.linkedin.com/in/ananya-negi-42922018a/" target="_blank" rel="nofollow"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+![Profile views](https://komarev.com/ghpvc/?username=AnanyaNegi&color=35b78a&style=flat-square&label=WELCOME+DEVELOPER+NO.)<a href="https://www.linkedin.com/in/ananya-negi-42922018a/" target="_blank" rel="nofollow"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/evidently_ananyaaa/" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://medium.com/@ananya4negi" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
 
-# < This is ANANYA ;) >
+# < THIS IS Ananya Negi ;) >
 
 ![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/me.gif)
 
