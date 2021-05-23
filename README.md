@@ -43,7 +43,7 @@
 
 <br>
 
-## 📈 STATS-
+## 📈 MY STATS-
 
 [![Ananya's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnanyaNegi&theme=react-dark)](https://github.com/AnanyaNegi/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaNegi&layout=compact&theme=midnight-purple)](https://github.com/AnanyaNegi)
