@@ -9,15 +9,13 @@
 <br>
 <table align="center">
   <tr>
-    <td style="border-right: 1px solid #eeeeef;"> 🌟 Mentor GSSoC'21 at <a href="https://github.com/ALPHAVIO">AlPHAVIO</a></td>
+    <td style="border-right: 1px solid #eeeeef;"> 🌟 Mentor GSSoC'21 at <a href="https://github.com/ALPHAVIO">ALPHAVIO</a></td>
     <td style="border-right: 1px solid #eeeeef;"> 💻 <a href="http://fellowship.mlh.io/">Women Tech Network</a> Global Ambassador </td>
     <td> 👁️ Former Web Intern at <a href="https://www.linkedin.com/company/tmhmindia/about/">TMHM</a> </td>
   </tr>
 </table>
 <br><br>
-  <p align="center">
-![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/giphy.gif)
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/giphy.gif"></p>
 <br><br>
 **A full-stack developer and open source enthusiast, I'm interested in cloud technologies and problem solving. Highly motivated and optimistic, I take on every opportunity which comes my way.**
 
