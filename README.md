@@ -18,9 +18,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/giphy.gif"></p>
 <br>
 
-**A full-stack developer and open source enthusiast, I'm interested in cloud technologies and problem solving. Highly motivated and optimistic, I take on every opportunity which comes my way.**
-
-
 - ⚡ I'm currently a Mentor @<a href="https://gssoc.girlscript.tech/">GSSoC'21.</a>
 
 - 🔭 I’m working on a Personal project.  
