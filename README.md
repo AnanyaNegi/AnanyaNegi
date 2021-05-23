@@ -35,12 +35,12 @@
 
 * <img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="40" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="40" height="40" />   
 
-* <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />    
-
 * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40" height="40" />   
 
 * <img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" width="40" height="40" /> <img  style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" width="40" height="40" /> <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" width="40" height="40" />  
  
+* <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />    
+
 <br>
 
 ## 📈 STATS-
