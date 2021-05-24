@@ -50,24 +50,10 @@
 
 <br>
 
-## 🎨 FUN FACTS ABOUT ME-
 
-**I love painting. Other than that I also like singing,reading and adoring cats of my neighbor.**
-
-<br>
-
-## 📱 GET IN TOUCH-
-
- <a href="https://www.linkedin.com/in/ananya-negi-42922018a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://mail.google.com/mail/ananya4negi"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://ananya-negi.herokuapp.com/"><img src="https://img.shields.io/badge/Website-00A98F?style=for-the-badge&logo=gatsby&logoColor=white" /></a>
- <a href="https://discord.com/channels/@Sakura_san#0401"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-
-<br>
-
-**Meanwhile do check out my Projects 😄 and don't forget to leave a ⭐ if you like it.**
 
 ![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/a910d345227f1f01c668a691958c23a7_w200.gif)
 
 <br>
 
+**Meanwhile do check out my projects 😄 and don't forget to leave a ⭐ if you like it.**
