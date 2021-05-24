@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center"> Hi! This is Ananya Negi.</h1>:octocat:
+<h1 align="center"> Hi! This is Ananya Negi.:bowtie:</h1>
  
 <br>
 <table align="center">
