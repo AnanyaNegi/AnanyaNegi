@@ -65,10 +65,9 @@
 
 <br>
 
-# < SEE YA! />
+**Meanwhile do check out my Projects 😄 and don't forget to leave a ⭐ if you like it.**
 
 ![cat](https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/a910d345227f1f01c668a691958c23a7_w200.gif)
 
 <br>
 
-**Meanwhile do check out my Projects 😄 and don't forget to leave a ⭐ if you like it.**
