@@ -26,7 +26,7 @@
   
 - ❓ Ask me about anything related to MERN stack and related technologies. 
  
-<hr>
+
 <br>
 
 ## 🎯 TECH I KNOW-
