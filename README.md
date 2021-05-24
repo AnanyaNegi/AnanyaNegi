@@ -20,7 +20,7 @@
 
 - ⚡ I'm currently a Mentor @<a href="https://gssoc.girlscript.tech/">GSSoC'21.</a>
 
-- 🔭 I’m working on a Personal project.  
+- 🔭 I’m currently working on revamping my personal website.  
   
 - 🌱 I'm deep diving into the applications and concept of AWS S3.(which is pretty awesome ngl)
   
