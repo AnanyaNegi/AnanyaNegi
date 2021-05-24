@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center"> Hi! This is Ananya Negi.<img src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/octo.png"></h1>
+<h1 align="center"> Hi! This is Ananya Negi.<img height="20px" width="20px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/octo.png"></h1>
  
 <br>
 <table align="center">
