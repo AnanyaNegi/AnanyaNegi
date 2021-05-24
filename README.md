@@ -56,4 +56,4 @@
 
 <br>
 
-**Meanwhile do check out my projects 😄 and don't forget to leave a ⭐ if you like it.**
+**Meanwhile do check out my projects 😄 and don't forget to leave a ⭐ if you like them.**
