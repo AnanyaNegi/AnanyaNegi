@@ -18,8 +18,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/giphy.gif"></p>
 <br>
 
-- ⚡ I'm currently a Mentor @<a href="https://gssoc.girlscript.tech/">GSSoC'21.</a>
-
 - 🔭 I’m currently working on revamping my personal website.  
   
 - 🌱 I'm deep diving into the applications and concepts of AWS S3.(which is pretty awesome ngl)
