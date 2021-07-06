@@ -1,5 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=AnanyaNegi&color=35b78a&style=flat-square&label=WELCOME+DEVELOPER+NO.)<a href="https://www.linkedin.com/in/ananya-negi-42922018a/" target="_blank" rel="nofollow">
-<img height="40px" width="50px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/Octocat.png"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<img height="40px" width="50px" margin-top="5px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/Octocat.png"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/evidently_ananyaaa/" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://medium.com/@ananya4negi" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
 <br>
 <em><h1 align="center">HI! THIS IS ANANYA NEGI.</h1></em>
