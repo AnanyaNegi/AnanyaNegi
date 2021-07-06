@@ -2,7 +2,7 @@
 <img height="45px" width="55px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/Octocat.png"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/evidently_ananyaaa/" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://medium.com/@ananya4negi" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
 
-
+<br>
 
 <h1 align="center"><img height="110px" width="650px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/nameis.png"></h1>
  
