@@ -23,7 +23,7 @@
 
 <br>
 
-## 🎯 TECH I KNOW-
+## 🎯 MY TECHSTACK:
 
 * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> <img  style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="40" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" width="40" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40" height="40" /> <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /> <img style="margin:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> <img style="margin:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> <img style="margin:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" /> <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40" /> <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40" />    
 
@@ -37,7 +37,7 @@
 
 <br>
 
-## 📈 MY STATS-
+## 📈 MY STATS:
 
 ![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanyaNegi&theme=yeblu&show_icons=true)
 <br>
