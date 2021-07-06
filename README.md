@@ -14,6 +14,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/giphy.gif"></p>
 <br>
 
+- 💻 I’m a CSE Undergrad.
+
 - 🔭 I’m currently working on revamping my personal website.  
   
 - 🌱 I'm deep diving into the applications and concepts of AWS S3.(which is pretty awesome ngl)
