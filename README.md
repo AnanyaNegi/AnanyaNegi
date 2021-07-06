@@ -6,7 +6,6 @@
 
 <h1 align="center"><img height="100px" width="640px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/nameis.png"></h1>
  
-<br>
 <table align="center">
   <tr>
     <td style="border-right: 1px solid #eeeeef;"> 🌟 Mentor GSSoC'21 at <a href="https://github.com/ALPHAVIO">ALPHAVIO</a></td>
