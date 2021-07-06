@@ -2,6 +2,7 @@
 <img height="40px" width="50px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/Octocat.png"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/evidently_ananyaaa/" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://medium.com/@ananya4negi" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
 <br>
+<br>
 <em><h1 align="center">HI! THIS IS ANANYA NEGI.</h1></em>
  <table align="center">
   <tr>
