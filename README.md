@@ -2,9 +2,9 @@
 <a href="https://www.instagram.com/evidently_ananyaaa/" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://medium.com/@ananya4negi" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
 
 
+<img height="45px" width="55px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/Octocat.png">
 
-
-<h1 align="center"><img  height="150px" width="800px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/name.png"><img height="45px" width="55px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/Octocat.png"></h1>
+<h1 align="center"><img  height="150px" width="700px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/name.png"></h1>
  
 <br>
 <table align="center">
