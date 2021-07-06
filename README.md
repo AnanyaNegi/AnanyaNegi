@@ -44,6 +44,7 @@
 ## 📈 MY STATS-
 
 ![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanyaNegi&theme=yeblu&show_icons=true)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaNegi&layout=compact&theme=midnight-purple)](https://github.com/AnanyaNegi)
 
 <br>
