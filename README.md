@@ -1,12 +1,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=AnanyaNegi&color=35b78a&style=flat-square&label=WELCOME+DEVELOPER+NO.)<a href="https://www.linkedin.com/in/ananya-negi-42922018a/" target="_blank" rel="nofollow">
 <img height="45px" width="55px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/Octocat.png"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/evidently_ananyaaa/" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://medium.com/@ananya4negi" target="_blank" rel="nofollow"><img align="right" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
-
 <br>
-
 <h1 align="center"><img height="100px" width="640px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/nameis.png"></h1>
- 
-<table align="center">
+ <table align="center">
   <tr>
     <td style="border-right: 1px solid #eeeeef;"> 🌟 Mentor GSSoC'21 at <a href="https://github.com/ALPHAVIO">ALPHAVIO</a></td>
     <td style="border-right: 1px solid #eeeeef;"> 💻 <a href="http://fellowship.mlh.io/">Women Tech Network</a> Global Ambassador </td>
