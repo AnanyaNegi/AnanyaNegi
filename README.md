@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center"><img height="120px" width="650px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/nameis.png"></h1>
+<h1 align="center"><img height="110px" width="650px" src="https://github.com/AnanyaNegi/AnanyaNegi/blob/master/nameis.png"></h1>
  
 <br>
 <table align="center">
