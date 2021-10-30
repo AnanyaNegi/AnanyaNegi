@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on revamping my personal website.  
   
-- 🌱 I'm deep diving into the applications and concepts of AWS S3.(which is pretty awesome ngl)
+- 🌱 I'm deep diving into the applications and concepts of AWS S3.
   
 - ❓ Ask me about anything related to MERN stack and related technologies. 
  
