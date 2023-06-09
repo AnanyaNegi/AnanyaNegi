@@ -15,11 +15,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/AnanyaNegi/AnanyaNegi/master/giphy.gif"></p>
 <br>
 
-- 💻 I’m a CSE Undergrad.
+- 💻 A CSE Undergrad.
 
-- 🔭 I’m currently working on revamping my personal website.  
+- 🔭 Currently working on revamping my personal website.  
   
-- 🌱 I'm deep diving into the applications and concepts of AWS S3.
+- 🌱 Deep diving into the applications and concepts of AWS S3.
   
 - ❓ Ask me about anything related to MERN stack and related technologies. 
  
