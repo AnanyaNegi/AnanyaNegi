@@ -6,8 +6,9 @@
  <table align="center">
   <tr>
     <td style="border-right: 1px solid #eeeeef;"> 🌟 Mentor GSSoC'21 at <a href="https://github.com/ALPHAVIO">ALPHAVIO</a></td>
-    <td style="border-right: 1px solid #eeeeef;"> 💻 <a href="http://fellowship.mlh.io/">Women Tech Network</a> Global Ambassador </td>
     <td> 👁️ Former Intern at <a href="https://www.linkedin.com/company/optum/">Optum UHG</a> </td>
+    <td style="border-right: 1px solid #eeeeef;"> 💻 <a href="http://fellowship.mlh.io/">Women Tech Network</a> Global Ambassador </td>
+    
   </tr>
 </table>
 <br>
